@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.AssemblyInfo.cs
+C:\Users\elsad\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.exe
+C:\Users\elsad\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.deps.json
+C:\Users\elsad\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.runtimeconfig.json
+C:\Users\elsad\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.dll
+C:\Users\elsad\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.pdb
+C:\Users\elsad\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.dll
+C:\Users\elsad\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\refint\FinalProject.dll
+C:\Users\elsad\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.pdb
+C:\Users\elsad\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.genruntimeconfig.cache
+C:\Users\elsad\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\ref\FinalProject.dll
